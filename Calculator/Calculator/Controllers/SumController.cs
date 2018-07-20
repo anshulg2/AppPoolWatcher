@@ -11,20 +11,20 @@ namespace Calculator.Controllers
 {
     public class SumController : ApiController
     {
-        //private IOperationFactory _operationFactory;
+        private IOperationFactory _operationFactory;
 
-        //public SumController(IOperationFactory factory)
-        //{
-        //    _operationFactory = factory;
-        //}
-
+        public SumController(IOperationFactory factory)
+        {
+            _operationFactory = factory;
+        }
+        
         // POST: api/Sum
         public SumResponse Post([FromBody]SumRequest request)
         {
-           //var result= _operationFactory.Create(request).Execute(request);
+            var result = _operationFactory.Create(request).Execute(request);
 
-           // return (SumResponse)result;
-            return new SumResponse();
+            return (SumResponse)result;
+           // return new SumResponse();
         }
     }
 }

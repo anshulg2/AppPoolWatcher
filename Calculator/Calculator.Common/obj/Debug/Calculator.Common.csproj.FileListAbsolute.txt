@@ -1,0 +1,9 @@
+D:\Anshul\TestProject\Calculator\Calculator.Common\bin\Debug\Calculator.Common.dll
+D:\Anshul\TestProject\Calculator\Calculator.Common\bin\Debug\Calculator.Common.pdb
+D:\Anshul\TestProject\Calculator\Calculator.Common\obj\Debug\Calculator.Common.csproj.CoreCompileInputs.cache
+D:\Anshul\TestProject\Calculator\Calculator.Common\obj\Debug\Calculator.Common.dll
+D:\Anshul\TestProject\Calculator\Calculator.Common\obj\Debug\Calculator.Common.pdb
+D:\Anshul\TestProject\Calculator\Calculator.Common\bin\Debug\log4net.dll
+D:\Anshul\TestProject\Calculator\Calculator.Common\bin\Debug\log4net.xml
+D:\Anshul\TestProject\Calculator\Calculator.Common\obj\Debug\Calculator.Common.csprojAssemblyReference.cache
+D:\Anshul\TestProject\Calculator\Calculator.Common\obj\Debug\Calculator.Common.csproj.CopyComplete

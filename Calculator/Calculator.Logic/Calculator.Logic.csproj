@@ -51,6 +51,10 @@
       <Project>{6ac9ead0-888e-402a-846b-46fb2d4191ea}</Project>
       <Name>Calculator.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Calculator.Data\Calculator.Data.csproj">
+      <Project>{0BBCB1EC-2A94-4C2F-84D7-20413773A9CC}</Project>
+      <Name>Calculator.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+D:\Anshul\TestProject\Calculator\Calculator.Data\bin\Debug\Calculator.Data.dll
+D:\Anshul\TestProject\Calculator\Calculator.Data\bin\Debug\Calculator.Data.pdb
+D:\Anshul\TestProject\Calculator\Calculator.Data\obj\Debug\Calculator.Data.csprojAssemblyReference.cache
+D:\Anshul\TestProject\Calculator\Calculator.Data\obj\Debug\Calculator.Data.csproj.CoreCompileInputs.cache
+D:\Anshul\TestProject\Calculator\Calculator.Data\obj\Debug\Calculator.Data.dll
+D:\Anshul\TestProject\Calculator\Calculator.Data\obj\Debug\Calculator.Data.pdb

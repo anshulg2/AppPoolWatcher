@@ -1,0 +1,9 @@
+D:\Anshul\TestProject\AppPoolWatcher\Notification\obj\Debug\netstandard2.0\Notification.csprojAssemblyReference.cache
+D:\Anshul\TestProject\AppPoolWatcher\Notification\obj\Debug\netstandard2.0\Notification.csproj.CoreCompileInputs.cache
+D:\Anshul\TestProject\AppPoolWatcher\Notification\obj\Debug\netstandard2.0\Notification.AssemblyInfoInputs.cache
+D:\Anshul\TestProject\AppPoolWatcher\Notification\obj\Debug\netstandard2.0\Notification.AssemblyInfo.cs
+D:\Anshul\TestProject\AppPoolWatcher\Notification\bin\Debug\netstandard2.0\Notification.deps.json
+D:\Anshul\TestProject\AppPoolWatcher\Notification\bin\Debug\netstandard2.0\Notification.dll
+D:\Anshul\TestProject\AppPoolWatcher\Notification\bin\Debug\netstandard2.0\Notification.pdb
+D:\Anshul\TestProject\AppPoolWatcher\Notification\obj\Debug\netstandard2.0\Notification.dll
+D:\Anshul\TestProject\AppPoolWatcher\Notification\obj\Debug\netstandard2.0\Notification.pdb

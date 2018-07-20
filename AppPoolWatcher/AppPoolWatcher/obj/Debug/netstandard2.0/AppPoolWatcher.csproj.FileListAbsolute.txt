@@ -1,0 +1,12 @@
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\bin\Debug\netstandard2.0\AppPoolWatcher.deps.json
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\bin\Debug\netstandard2.0\AppPoolWatcher.dll
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\bin\Debug\netstandard2.0\AppPoolWatcher.pdb
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.csprojAssemblyReference.cache
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.csproj.CoreCompileInputs.cache
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.AssemblyInfoInputs.cache
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.AssemblyInfo.cs
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.dll
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.pdb
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\bin\Debug\netstandard2.0\Notification.dll
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\bin\Debug\netstandard2.0\Notification.pdb
+D:\Anshul\TestProject\AppPoolWatcher\AppPoolWatcher\obj\Debug\netstandard2.0\AppPoolWatcher.csproj.CopyComplete

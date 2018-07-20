@@ -3,37 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Runtime.InteropServices;
 using System.Web.Http;
+using Calculator.Common;
+using Calculator.Logic;
 
 namespace Calculator.Controllers
 {
     public class SubtractController : ApiController
     {
-        // GET: api/Subtract
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+        private IOperationFactory _operationFactory;
 
-        // GET: api/Subtract/5
-        public string Get(int id)
+        public SubtractController(IOperationFactory factory)
         {
-            return "value";
+            _operationFactory = factory;
         }
-
         // POST: api/Subtract
-        public void Post([FromBody]string value)
+        public SubtractResponse Post([FromBody]SubtractRequest request)
         {
-        }
+            var result = _operationFactory.Create(request).Execute(request);
 
-        // PUT: api/Subtract/5
-        public void Put(int id, [FromBody]string value)
-        {
+            return (SubtractResponse) result;
         }
-
-        // DELETE: api/Subtract/5
-        public void Delete(int id)
-        {
-        }
+        
     }
 }
